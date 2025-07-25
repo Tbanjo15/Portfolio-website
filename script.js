@@ -407,3 +407,4 @@ if (aboutSection) {
     
     aboutObserver.observe(aboutSection);
 }
+
